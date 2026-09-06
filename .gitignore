@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+*.o
+*.a
+miniRT
+miniRT_bonus
+mlx_linux/
+tools/demo/motion
+docs/*.log
+docs/chapter-*.png
